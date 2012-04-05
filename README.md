@@ -1,5 +1,5 @@
 # Physics Simulations in Java
-These simulations have been developed under the guidance of [Dr. Gaurav Dar](www.bits-goa.ac.in/departments/Faculty/faculty%20pages/gdar.htm), [BITS Pilani KK Birla Goa Campus](http://universe.bits-pilani.ac.in/Goa/) as a part of a government backed initiative to bring educational resources online.
+These simulations have been developed under the guidance of Dr. Gaurav Dar, [BITS Pilani KK Birla Goa Campus](http://universe.bits-pilani.ac.in/Goa/) as a part of a government backed initiative to bring educational resources online.
 
 # Credits
 We have made of use of [Easy Java Simulation](www.um.es/fem/EjsWiki/) Environment to build these simulations. Moreover, we have taken inspiration from [Opensource Physics'](www.opensourcephysics.org/) treasure of open source physics simulations. 
