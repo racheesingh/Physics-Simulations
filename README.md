@@ -1,8 +1,8 @@
 # Physics Simulations in Java
-These simulations have been developed under the guidance of [Dr. Gaurav Dar](www.bits-goa.ac.in/departments/Faculty/faculty%20pages/gdar.htm), BITS Pilani KK Birla Goa Campus as a part of a government backed initiative to bring educational resources online.
+These simulations have been developed under the guidance of [Dr. Gaurav Dar](www.bits-goa.ac.in/departments/Faculty/faculty%20pages/gdar.htm), [BITS Pilani KK Birla Goa Campus](http://universe.bits-pilani.ac.in/Goa/) as a part of a government backed initiative to bring educational resources online.
 
 # Credits
-We have made of use of [Easy Java Simulation](www.um.es/fem/EjsWiki/) (EJS) Environment to build these simulations. Moreover, we have taken inspiration from (Opensource Physics](www.opensourcephysics.org/) treasure of open source physics simulations. 
+We have made of use of [Easy Java Simulation](www.um.es/fem/EjsWiki/) (EJS) Environment to build these simulations. Moreover, we have taken inspiration from [Opensource Physics](www.opensourcephysics.org/) treasure of open source physics simulations. 
 
 # Applications
 As of now, we have built a foucault's pendulum simulation. One of the best, already available simulation of Foucault's Pendulum (also developed using EJS) was [this](www.cleonis.nl/physics/phys256/foucault_pendulum_intro.php). This was an amazing simulation and we have built upon it to suit our needs. In addition to providing a 3-D close-up view of the pendulum, we allow the user to zoom in and observe the trajectory of the pendulum bob.
