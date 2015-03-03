@@ -1,5 +1,5 @@
 # Physics Simulations in Java
-These simulations have been developed under the guidance of Dr. Gaurav Dar, [BITS Pilani KK Birla Goa Campus](http://universe.bits-pilani.ac.in/Goa/) as a part of a government backed initiative to bring educational resources online.
+These simulations have been developed under the guidance of Dr. Gaurav Dar, [BITS Pilani KK Birla Goa Campus](http://universe.bits-pilani.ac.in/Goa/) as a part of the Sakshat initiative by the Government of India. The simulation is hosted [here](http://ictwiki.iitk.ernet.in/wiki/index.php/Animations_in_Physics).
 
 # Credits
 We have made of use of the [Easy Java Simulation](http://www.um.es/fem/EjsWiki/) Environment to build these simulations. We took inspiration from [Opensource Physics'](http://www.opensourcephysics.org/) treasure of open source simulations of physical phenomena. One of the best, already available simulation of Foucault's pendulum (also developed using EJS) was present [here](http://www.cleonis.nl/physics/phys256/foucault_pendulum_intro.php).
